@@ -16,5 +16,5 @@ local function handleGuildChat(self, event, message, ...)
 end
 
 local frame = CreateFrame("Frame")
-frame:RegisterEvent("CHAT_MSG_WHISPER")
+frame:RegisterEvent("CHAT_MSG_GUILD")
 frame:SetScript("OnEvent", handleGuildChat)
