@@ -1,6 +1,6 @@
-## Interface: 11306
+## Interface: 11307
 ## Title: Mallard
 ## Author: Gazrilla
-## Version: 1.0.0
+## Version: 1.1.0
 
-main.lua
+player.lua
